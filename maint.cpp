@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Функция для вычисления периметра трапеции, 656
+// Функция для вычисления периметра трапеции, 65687878787
 float calculateTrapezoidPerimeter(float side1, float side2, float base1, float base2) {
     return side1 + side2 + base1 + base2;
 }
