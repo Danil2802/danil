@@ -13,7 +13,7 @@ float calculateTrapezoidArea(float base1, float base2, float height) {
     return (base1 + base2) * height / 2;
 }
 
-// Функция для вычисления длины средней линии трапеции
+// Функция для вычисления длины средней линии трапеции,545
 float calculateTrapezoidMedian(float base1, float base2) {
     return (base1 + base2) / 2;
 }
