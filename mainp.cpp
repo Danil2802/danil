@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Функция для вычисления периметра прямоугольника
+// Функция для вычисления периметра прямоугольника87878787
 float calculateRectanglePerimeter(float length, float width) {
     return 2 * (length + width);
 }
